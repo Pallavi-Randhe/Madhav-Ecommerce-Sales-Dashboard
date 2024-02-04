@@ -10,4 +10,4 @@ project learnings
 
 3 Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations.
 
-4 used different types of customized visualization ( bar chart, donut chart, clustered bar chart, Scatter char, Slicers, etc).
+4 used different types of customized visualization ( bar chart, donut chart, clustered bar chart, Slicers, etc).
