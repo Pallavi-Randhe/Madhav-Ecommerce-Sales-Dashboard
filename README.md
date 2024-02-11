@@ -1,10 +1,10 @@
 Objective:
 
-Owner of Madhav Store wants us to help them create dashboard to track and analyse their online sales across India.
+Owner of Madhav Store wants us to help them create dashboard to track and analyze their online sales across India.
 
 project learnings
 
-1 created interactive dashboard to track and analyse online sales data.
+1 created interactive dashboard to track and analyze online sales data.
 
 2 Used complex parameter to drill down in worksheet and customization using filters and slicers.
 
